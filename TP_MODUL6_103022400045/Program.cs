@@ -1,18 +1,31 @@
 ﻿using System;
-using TP_MODUL6_103022400045;
 
-class Program
+namespace TP_MODUL6_103022400045
 {
-    static void Main(string[] args)
+    class Program
     {
-        SayaMusicTrack track1 = new SayaMusicTrack("Hati-Hati di Jalan");
+        static void Main(string[] args)
+        {
+            try
+            {
+                SayaMusicTrack track1 = new SayaMusicTrack("Who Knows");
 
-        track1.playCount = 100;
+                track1.IncreasePlayCount(5000);
+                track1.PrintTrackDetails();
 
-        track1.IncreasePlayCount(20);
+                track1.IncreasePlayCount(20000000);
 
-        track1.PrintTrackDetails();
+                for (int i = 0; i < 10; i++)
+                {
+                    track1.IncreasePlayCount(int.MaxValue);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error: " + e.Message);
+            }
 
-        Console.ReadLine();
+            Console.ReadLine();
+        }
     }
 }
