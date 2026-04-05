@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\KULIAH SEM 4\\KPL\\PRAKTIKUM\\TP\\TP_MODUL6_103022400045\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D0F20B9-CD27-4000-B162-9154402E6A1A}|TP_MODUL6_103022400045\\TP_MODUL6_103022400045.csproj|c:\\users\\user\\documents\\kuliah sem 4\\kpl\\praktikum\\tp\\tp_modul6_103022400045\\tp_modul6_103022400045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D0F20B9-CD27-4000-B162-9154402E6A1A}|TP_MODUL6_103022400045\\TP_MODUL6_103022400045.csproj|solutionrelative:tp_modul6_103022400045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1AA1AD8-7566-5AF0-91F6-4A32CE753DD8}|TP_MODUL6_103022400045\\TP_MODUL6_103022400045.csproj|c:\\users\\user\\documents\\kuliah sem 4\\kpl\\praktikum\\tp\\tp_modul6_103022400045\\tp_modul6_103022400045\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA1AD8-7566-5AF0-91F6-4A32CE753DD8}|TP_MODUL6_103022400045\\TP_MODUL6_103022400045.csproj|solutionrelative:tp_modul6_103022400045\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AA1AD8-7566-5AF0-91F6-4A32CE753DD8}|TP_MODUL6_103022400045\\TP_MODUL6_103022400045.csproj|c:\\users\\user\\documents\\kuliah sem 4\\kpl\\praktikum\\tp\\tp_modul6_103022400045\\tp_modul6_103022400045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AA1AD8-7566-5AF0-91F6-4A32CE753DD8}|TP_MODUL6_103022400045\\TP_MODUL6_103022400045.csproj|solutionrelative:tp_modul6_103022400045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\KULIAH SEM 4\\KPL\\PRAKTIKUM\\TP\\TP_MODUL6_103022400045\\TP_MODUL6_103022400045\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "TP_MODUL6_103022400045\\SayaMusicTrack.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\KULIAH SEM 4\\KPL\\PRAKTIKUM\\TP\\TP_MODUL6_103022400045\\TP_MODUL6_103022400045\\SayaMusicTrack.cs",
+              "RelativeToolTip": "TP_MODUL6_103022400045\\SayaMusicTrack.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:42:12.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\KULIAH SEM 4\\KPL\\PRAKTIKUM\\TP\\TP_MODUL6_103022400045\\TP_MODUL6_103022400045\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL6_103022400045\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\KULIAH SEM 4\\KPL\\PRAKTIKUM\\TP\\TP_MODUL6_103022400045\\TP_MODUL6_103022400045\\Program.cs",
               "RelativeToolTip": "TP_MODUL6_103022400045\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T15:35:07.373Z",
               "EditorCaption": ""
